@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71491629004",
+    "project_id": "franchgo-7180e",
+    "storage_bucket": "franchgo-7180e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71491629004:android:01455821e074bc64ecf769",
+        "android_client_info": {
+          "package_name": "com.example.franchgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71491629004-3hgojstpooo8jac80hnu6ech3gdmplss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ulYWGNbrGSl_hgpNX_awvZWBet3OKa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71491629004-3hgojstpooo8jac80hnu6ech3gdmplss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
